@@ -18,7 +18,7 @@ main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
       home: MainScreen(),
       routes: routes,
-      title: 'Church App',
+      title: 'GNAAS-KNUST',
       theme: ThemeData(
         primaryColor: Color(0xFF414278),
       ),

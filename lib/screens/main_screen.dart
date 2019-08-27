@@ -69,7 +69,7 @@ class _MainScreenState extends State<MainScreen> {
     );
 
     return Scaffold(
-      appBar: MyAppBar(context, 'Church App'),
+      appBar: MyAppBar(context, 'GNAAS-KNUST'),
       body: Stack(
         alignment: Alignment.bottomCenter,
         overflow: Overflow.visible,
